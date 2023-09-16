@@ -45,7 +45,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ## Autor
 
-Este programa foi escrito por [Seu Nome].
+Este programa foi escrito por Kaique Barbosa.
 
 ## Licença
 
